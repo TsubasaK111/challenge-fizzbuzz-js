@@ -1,6 +1,6 @@
 {
   "editable": [
-    "app.js",
+    "apple.js",
     "answer.md"
   ],
   "excludes": [
@@ -15,7 +15,6 @@
   "tags": [
       "JavaScript",
       "Node.js",
-      "Algorithm",
-      "FizzBuzz"
+      "Algorithm"
   ]
 }
